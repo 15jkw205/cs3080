@@ -1,0 +1,9 @@
+MORTGAGE AMORTIZATION SCHEDULELoan amount: $1.00
+Loan rate: 1.000%
+Loan term: 1 years
+Monthly payment: $0.08
+Total paid: $0.96
+Cost of credit: $-0.04
+      /-------   PAYMENT   --------\  /---------   TOTAL   ---------\
+month  payment  interest principal  interest   principal     paid   balance
+   12     0.08      0.00       0.08      0.00       0.96      0.96      0.05
